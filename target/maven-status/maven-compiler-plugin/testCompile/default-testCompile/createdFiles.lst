@@ -1,0 +1,4 @@
+tests/MobileElement.class
+tests/AndroidElement.class
+tests/BaseClass.class
+tests/Tests.class
